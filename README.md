@@ -12,13 +12,13 @@ Por esta razón, se desarrollará una aplicación que permita registrar, consult
 
 ## Análisis de requerimientos
 
--La aplicación incluirá las siguientes funcionalidades principales:
--Registrar productos: ingresar nombre, tipo, cantidad, precio y proveedor.
--Editar o eliminar productos: modificar datos existentes o eliminar productos del registro.
--Consultar productos registrados: mostrar la lista completa de productos.
--Buscar productos por nombre o tipo.
--Validar campos vacíos: evitar registros incompletos.
--Almacenamiento local o en base de datos: para mantener la información segura.
+- La aplicación incluirá las siguientes funcionalidades principales:
+- Registrar productos: ingresar nombre, tipo, cantidad, precio y proveedor.
+- Editar o eliminar productos: modificar datos existentes o eliminar productos del registro.
+- Consultar productos registrados: mostrar la lista completa de productos.
+- Buscar productos por nombre o tipo.
+- Validar campos vacíos: evitar registros incompletos.
+- Almacenamiento local o en base de datos: para mantener la información segura.
 
 ## Problemas detectados en el manejo manual de productos
 
@@ -29,3 +29,6 @@ Por esta razón, se desarrollará una aplicación que permita registrar, consult
 * Dificultad para consultar información: revisar productos específicos toma tiempo y puede requerir revisar varias páginas.
 * Pérdida de tiempo: el proceso manual de búsqueda, verificación y actualización es lento.
 * Riesgo de pérdida de datos: los cuadernos pueden dañarse o perderse, dejando sin respaldo la información del inventario.
+
+## Solución propuesta
+
