@@ -7,18 +7,29 @@
 - Herrera Lucy
 
 ## Contexto del problema
-En la actualidad, la información sobre productos de limpieza suele registrarse de forma manual, utilizando cuadernos o listas escritas. Esto genera problemas como pérdida de datos, duplicación de registros, errores en la escritura y dificultad para localizar información específica.
-Por esta razón, se desarrollará una aplicación que permita registrar, consultar y gestionar los datos de productos de limpieza de forma rápida, organizada y segura, facilitando el control del inventario y optimizando la administración de los recursos.
+Actualmente, el registro y control de los productos de limpieza se realiza de manera manual mediante cuadernos, hojas sueltas o listas escritas. Este método tradicional presenta diversas limitaciones, como la pérdida o deterioro de la información, la duplicación de registros, errores en la escritura y dificultades para actualizar o consultar los datos de forma rápida. Además, la información no se encuentra centralizada, lo que complica el seguimiento del inventario y la toma de decisiones oportunas.
 
+##Importancia del problema
+La falta de un sistema organizado y confiable para el control de los productos de limpieza puede generar desabastecimiento, compras innecesarias, desperdicio de recursos y una mala administración del inventario. Estos problemas afectan directamente la eficiencia operativa y el uso adecuado de los recursos, especialmente en entornos donde se requiere un control constante y preciso, como instituciones educativas, empresas, hospitales u organizaciones en general.
 ## Análisis de requerimientos
 
-- La aplicación incluirá las siguientes funcionalidades principales:
-- Registrar productos: ingresar nombre, tipo, cantidad, precio y proveedor.
-- Editar o eliminar productos: modificar datos existentes o eliminar productos del registro.
-- Consultar productos registrados: mostrar la lista completa de productos.
-- Buscar productos por nombre o tipo.
-- Validar campos vacíos: evitar registros incompletos.
-- Almacenamiento local o en base de datos: para mantener la información segura.
+## Contexto de uso de la aplicación
+Ante esta situación, se propone el desarrollo de una aplicación informática que permita registrar, consultar y gestionar de manera digital los datos de los productos de limpieza. La aplicación estará diseñada para facilitar el control del inventario, permitiendo un acceso rápido y seguro a la información, reduciendo errores humanos y optimizando la administración de los recursos. Este sistema será utilizado por el personal encargado del control y gestión de los productos, mejorando la organización, la eficiencia y la confiabilidad del proceso.
+
+* Registrar productos:
+Permite seleccionar el nombre del producto e ingresar el nombre del cliente
+
+* Consultar productos registrados:
+Muestra en pantalla la lista completa de productos almacenados junto con su información relevante, como el cliente asociado y el precio.
+
+* Buscar productos:
+Incluye una barra de búsqueda que permite encontrar productos por nombre o cliente dentro del registro.
+
+* Validación de datos:
+El sistema evita registrar productos con campos vacíos o información incorrecta, garantizando la integridad de los datos.
+
+* Gestión de productos descontinuados:
+Cuenta con una sección especial para visualizar los productos que ya no están en venta (descontinuados)
 
 ## Problemas detectados en el manejo manual de productos
 
