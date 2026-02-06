@@ -30,5 +30,4 @@ Por esta razón, se desarrollará una aplicación que permita registrar, consult
 * Pérdida de tiempo: el proceso manual de búsqueda, verificación y actualización es lento.
 * Riesgo de pérdida de datos: los cuadernos pueden dañarse o perderse, dejando sin respaldo la información del inventario.
 
-## Solución propuesta
 
